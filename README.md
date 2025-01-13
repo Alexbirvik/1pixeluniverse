@@ -1,6 +1,6 @@
 # 1pixeluniverse
-My pet-project to realize solar system scales on your screen.
+My pet project visualizes solar system scales on your screen.
 
-Made with vanilla css, without any picture.
+It's made with vanilla CSS, without using any images.
 
-I created this project long time ago, I just decided to keep it as a good memory about the time when I was learning HTML and CSS.
+I created this project a long time ago, and I decided to keep it as a fond memory of the time when I was learning HTML and CSS.
